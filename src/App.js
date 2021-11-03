@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header>
-        <section>Hola esta es una prueba d emi pagina</section>
+        <section>Hola esta es una prueba de mi primera pagina</section>
     </div>
   );
 }
